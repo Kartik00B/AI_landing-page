@@ -35,7 +35,7 @@ Clone the Repository:
 
 ## 🚀 How to View
 
-You can view the website code here: [AI Landing Page](https://github.com/Kartik00B/AI-landing-page/)
+You can view the website code here: [AI Landing Page](https://github.com/Kartik00B/AI_landing-page)
 
 
 ## 📂 Project Structure
