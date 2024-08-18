@@ -14,11 +14,11 @@ Interactive Contact Form: A sleek and easy-to-use contact form for visitors to r
 HTML5: The backbone of the page, providing structure and semantic content.
 CSS3: Custom styles, animations, and responsive layouts using Flexbox and Grid.
 JavaScript: Adds interactivity and dynamic effects, including smooth scrolling and responsive menus.
+
 🚀 Getting Started
 Follow these steps to get the landing page up and running locally:
 
 Clone the Repository:
-
 bash
 Copy code
 git clone https://github.com/Kartik00B/AI_landing-page.git
