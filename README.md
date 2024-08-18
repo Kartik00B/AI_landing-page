@@ -35,7 +35,7 @@ Clone the Repository:
 
 ## 🚀 How to View
 
-You can view the website code here: [Portfolio Website](https://github.com/Kartik00B/AI-landing-page/)
+You can view the website code here: [AI Landing Page](https://github.com/Kartik00B/AI-landing-page/)
 
 
 ## 📂 Project Structure
@@ -55,9 +55,9 @@ This project is fully customizable. Easily modify colors, fonts, and layouts in 
 
 Feel free to reach out if you have any questions or suggestions:
 
-- **Email**: [your.email@example.com](mailto:kartikbhapkar09@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/kartik-bhapkar-632b72242/)
-- **GitHub**: [Your GitHub Profile](https://github.com/Kartik00B)
+- **Email**: [email](mailto:kartikbhapkar09@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/kartik-bhapkar-632b72242/)
+- **GitHub**: [GitHub Profile](https://github.com/Kartik00B)
 
 ## 🎉 Acknowledgments
 
