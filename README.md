@@ -1,7 +1,7 @@
 # 🚀 AI Services Landing Page
 
 ##🌟 Overview
-Welcome to the AI Services Landing Page—a sleek, modern, and fully responsive landing page crafted to showcase top-notch AI services. This project, built as part of my internship at CodSoft, combines vibrant visuals, smooth animations, and a user-friendly experience to captivate visitors and drive engagement.
+Welcome to the AI Services Landing Page a sleek, modern, and fully responsive landing page crafted to showcase top-notch AI services. This project, built as part of my internship at CodSoft, combines vibrant visuals, smooth animations, and a user-friendly experience to captivate visitors and drive engagement.
 
 ## ✨ Features
 - **Responsive Design**: Perfectly optimized for all devices, from desktops to mobile phones, ensuring a seamless experience for every visitor.
