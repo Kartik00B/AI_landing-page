@@ -55,9 +55,9 @@ This project is fully customizable. Easily modify colors, fonts, and layouts in 
 
 Feel free to reach out if you have any questions or suggestions:
 
-- **Email**: [email](mailto:kartikbhapkar09@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/kartik-bhapkar-632b72242/)
-- **GitHub**: [GitHub Profile](https://github.com/Kartik00B)
+- **Email**: [kartikbhapkar09@gmail.com](mailto:kartikbhapkar09@gmail.com)
+- **LinkedIn**: [[LinkedIn Profile](https://www.linkedin.com/in/kartik-bhapkar-632b72242/)](https://www.linkedin.com/in/kartik-bhapkar-632b72242/)
+- **GitHub**: [[GitHub Profile](https://github.com/Kartik00B)](https://github.com/Kartik00B)
 
 ## 🎉 Acknowledgments
 
