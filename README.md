@@ -63,3 +63,4 @@ Feel free to reach out if you have any questions or suggestions:
 
 - Special thanks to [CodSoft](https://www.codsoft.in/) for the opportunity to intern and build this project.
 - Inspiration and design ideas from various online resources and portfolio templates.
+this is the final commit!
